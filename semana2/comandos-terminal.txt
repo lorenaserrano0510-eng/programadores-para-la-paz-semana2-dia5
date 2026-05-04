@@ -1,1 +1,3 @@
-
+pwd
+is
+mkdir
