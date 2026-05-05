@@ -1,1 +1,16 @@
+Pregunta 8 — Escribir respuestas de selección múltiple
+Abre el archivo preguntas-semana2.txt y escribe las respuestas de las preguntas 1 a 4.
 
+Ejemplo:
+
+Pregunta 1:
+Respuesta: A
+
+Pregunta 2:
+Respuesta: B
+
+Pregunta 3:
+Respuesta: C
+
+Pregunta 4:
+Respuesta: B
