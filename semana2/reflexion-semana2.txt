@@ -1,1 +1,5 @@
+Pregunta 9 — Reflexión de la semana
+En el archivo reflexion-semana2.txt escribe un texto de 8 a 10 líneas respondiendo:
 
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+Es importante para poder almacenar la informacion y que tengamos un trabajo colaborativo con las demas personas
